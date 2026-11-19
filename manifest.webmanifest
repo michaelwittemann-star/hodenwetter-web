@@ -1,0 +1,17 @@
+{
+  "name": "Hodenwetter",
+  "short_name": "Hodenwetter",
+  "description": "Wie lang wird der Hoden heute? Die Wetter-App in Zentimetern.",
+  "lang": "de",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1b3a63",
+  "theme_color": "#2f6db0",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
